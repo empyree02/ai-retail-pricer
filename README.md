@@ -1,3 +1,14 @@
+---
+title: AI Retail Pricer
+emoji: 💰
+colorFrom: green
+colorTo: blue
+sdk: streamlit
+app_file: app.py
+python_version: 3.10
+pinned: false
+---
+
 # 💰 AI Retail Pricer
 
 **AI Retail Pricer** is a simple app that suggests a **retail price** based on your **purchase cost** and configurable business parameters like logistics, IT, personnel, and profit margin.
